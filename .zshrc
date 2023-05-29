@@ -80,5 +80,3 @@ export PATH=$PATH:$ANDROID_HOME/.android/avd
 export JAVA_HOME=$(/usr/libexec/java_home)
 
 export REACT_EDITOR=nvim
-
-
